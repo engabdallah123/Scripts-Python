@@ -2,6 +2,6 @@
 
 ---
 
-## Clone this files in bash as :
+## Clone this files in bash like :
 ```
 git clone https://github.com/engabdallah123/Scripts-Python.git
